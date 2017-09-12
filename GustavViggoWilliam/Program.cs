@@ -6,7 +6,7 @@ namespace GustavViggoWilliam
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hej på er!");
         }
     }
 }

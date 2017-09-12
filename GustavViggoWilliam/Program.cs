@@ -17,6 +17,8 @@ namespace GustavViggoWilliam
 
             
             Console.WriteLine("Hur kan detta vara krånglasadsadsasadasdasdsadsasdsadasddsadsadigt?!?!");
+
+            Console.WriteLine("Hej Gustaf");
         }
     }
 }

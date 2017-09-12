@@ -11,6 +11,9 @@ namespace GustavViggoWilliam
             Console.WriteLine("Viggo reporting for duty");
 
             Console.WriteLine("ta den om du vill");
+
+            Console.WriteLine("ta den om du vill");
+            Console.WriteLine("ta den om du vill");
         }
     }
 }

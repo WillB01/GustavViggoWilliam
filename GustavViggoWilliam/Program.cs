@@ -15,8 +15,8 @@ namespace GustavViggoWilliam
             Console.WriteLine("ta den om du vill");
             Console.WriteLine("ta den om du vill");
 
-
-            Console.WriteLine("Hur kan detta vara krångligt?!?!");
+            
+            Console.WriteLine("Hur kan detta vara krånglasadsadsadsadsadigt?!?!");
         }
     }
 }
